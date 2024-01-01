@@ -74,11 +74,10 @@ if __name__ == "__main__":
         mlflow.log_metric("r2", r2)
         mlflow.log_metric("mae", mae)
 
-        predictions = lr.predict(train_x)
-        signature = infer_signature(train_x, predictions)
+        remote_server_uri = "https://dagshub.com/timothyafolami/mlflow-tutorial.mlflow"
 
         tracking_url_type_store = urlparse(mlflow.get_tracking_uri()).scheme
-
+        mlflow.set_tracking_uri(remote_server_uri)
         # Model registry does not work with file store
         if tracking_url_type_store != "file":
             # Register the model
@@ -86,7 +85,7 @@ if __name__ == "__main__":
             # please refer to the doc for more information:
             # https://mlflow.org/docs/latest/model-registry.html#api-workflow
             mlflow.sklearn.log_model(
-                lr, "model", registered_model_name="ElasticnetWineModel", signature=signature
+                lr, "model", registered_model_name="ElasticnetWineModel"
             )
         else:
-            mlflow.sklearn.log_model(lr, "model", signature=signature)
+            mlflow.sklearn.log_model(lr, "model")
