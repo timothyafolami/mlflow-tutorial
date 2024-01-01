@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/timmy/Downloads/End%20to%20End%20ML%20projects/mlflow-tutorial/mlruns/0/51f52e0b540a467a80917f47da770ee7/artifacts
+end_time: 1704102170832
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51f52e0b540a467a80917f47da770ee7
+run_name: tasteful-cod-162
+run_uuid: 51f52e0b540a467a80917f47da770ee7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704102164554
+status: 3
+tags: []
+user_id: timmy

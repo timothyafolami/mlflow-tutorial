@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/timmy/Downloads/End%20to%20End%20ML%20projects/mlflow-tutorial/mlruns/0/64af1842fcb5405ea9b93c84b3e1e443/artifacts
+end_time: 1704103056532
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64af1842fcb5405ea9b93c84b3e1e443
+run_name: crawling-calf-19
+run_uuid: 64af1842fcb5405ea9b93c84b3e1e443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704103053018
+status: 3
+tags: []
+user_id: timmy

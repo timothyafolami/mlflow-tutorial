@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/timmy/Downloads/End%20to%20End%20ML%20projects/mlflow-tutorial/mlruns/0/b4d340479c3a479ab5f31df753b4c5fe/artifacts
+end_time: 1704102468748
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4d340479c3a479ab5f31df753b4c5fe
+run_name: overjoyed-lamb-737
+run_uuid: b4d340479c3a479ab5f31df753b4c5fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704102465283
+status: 3
+tags: []
+user_id: timmy

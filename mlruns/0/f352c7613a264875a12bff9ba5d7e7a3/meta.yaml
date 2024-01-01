@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/timmy/Downloads/End%20to%20End%20ML%20projects/mlflow-tutorial/mlruns/0/f352c7613a264875a12bff9ba5d7e7a3/artifacts
+end_time: 1704103038474
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f352c7613a264875a12bff9ba5d7e7a3
+run_name: omniscient-bass-831
+run_uuid: f352c7613a264875a12bff9ba5d7e7a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704103034971
+status: 3
+tags: []
+user_id: timmy

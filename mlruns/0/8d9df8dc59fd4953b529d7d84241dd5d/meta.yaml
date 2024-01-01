@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/timmy/Downloads/End%20to%20End%20ML%20projects/mlflow-tutorial/mlruns/0/8d9df8dc59fd4953b529d7d84241dd5d/artifacts
+end_time: 1704103019753
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d9df8dc59fd4953b529d7d84241dd5d
+run_name: ambitious-pig-439
+run_uuid: 8d9df8dc59fd4953b529d7d84241dd5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704103016338
+status: 3
+tags: []
+user_id: timmy

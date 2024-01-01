@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/timmy/Downloads/End%20to%20End%20ML%20projects/mlflow-tutorial/mlruns/0/61e8a9f32c8640d3bd9eb72b4c180d9e/artifacts
+end_time: 1704103003863
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61e8a9f32c8640d3bd9eb72b4c180d9e
+run_name: mercurial-deer-34
+run_uuid: 61e8a9f32c8640d3bd9eb72b4c180d9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704103000430
+status: 3
+tags: []
+user_id: timmy

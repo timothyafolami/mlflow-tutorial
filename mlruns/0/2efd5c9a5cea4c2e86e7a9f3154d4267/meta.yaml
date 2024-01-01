@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/timmy/Downloads/End%20to%20End%20ML%20projects/mlflow-tutorial/mlruns/0/2efd5c9a5cea4c2e86e7a9f3154d4267/artifacts
+end_time: 1704103074333
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2efd5c9a5cea4c2e86e7a9f3154d4267
+run_name: gaudy-moose-786
+run_uuid: 2efd5c9a5cea4c2e86e7a9f3154d4267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704103070882
+status: 3
+tags: []
+user_id: timmy
