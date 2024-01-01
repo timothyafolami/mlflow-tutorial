@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/timmy/Downloads/End%20to%20End%20ML%20projects/mlflow-tutorial/mlruns/0/94a6007b64184f4185336c88f0b91162/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94a6007b64184f4185336c88f0b91162
+run_name: inquisitive-shad-252
+run_uuid: 94a6007b64184f4185336c88f0b91162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704106622332
+status: 1
+tags: []
+user_id: timmy
