@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/timmy/Downloads/End%20to%20End%20ML%20projects/mlflow-tutorial/mlruns/0/63e19e3576874377bc646047aced1f00/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63e19e3576874377bc646047aced1f00
+run_name: overjoyed-rat-853
+run_uuid: 63e19e3576874377bc646047aced1f00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704107160945
+status: 1
+tags: []
+user_id: timmy
